@@ -1,0 +1,7 @@
+{
+  "name": "Workout Rester",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

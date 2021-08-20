@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Resterr</string>
+    <string name="title_activity_main">Resterr</string>
+    <string name="package_name">com.ionic.resterr</string>
+    <string name="custom_url_scheme">com.ionic.resterr</string>
+</resources>
